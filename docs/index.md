@@ -17,14 +17,13 @@ As opposed to majority of other Apps and websites that report COVID statistics a
 The App includes both local (city level) information for Canada and US, as well as global information for all countries around the globe, is compatible with mobile devices, and provides region specific URL short-cuts...
 
 
-Read Full Article: 
-- https://www.linkedin.com/pulse/interactive-web-app-visualize-predict-spread-covid19-gorodnichy/
+Read Full Article:  [https://www.linkedin.com/pulse/interactive-web-app-visualize-predict-spread-covid19-gorodnichy](https://www.linkedin.com/pulse/interactive-web-app-visualize-predict-spread-covid19-gorodnichy)
 
 
 Go to the App: 
-- https://itrack.shinyapps.io/covid (International version)
-- https://itrack.shinyapps.io/covid/us.Rmd
-- https://itrack.shinyapps.io/covid/ca.Rmd
+- [https://itrack.shinyapps.io/covid](https://itrack.shinyapps.io/covid) (International version)
+- [https://itrack.shinyapps.io/covid/us.Rmd](https://itrack.shinyapps.io/covid/us.Rmd)
+- [https://itrack.shinyapps.io/covid/ca.Rmd](https://itrack.shinyapps.io/covid/ca.Rmd)
 
 "This App provides LIVE updates on the situation with COVID-19 in Canada and other countries at the municipal level. The unique feature of the App is a fully automated *data science driven* approach for searching and identifying high-risk regions in the country. In addition, to searching by Total and New Cases, you can also search by Acceleration, which is change in new cases a day, and Growth Rate, also known as Reproduction Rate or Rt."
 
